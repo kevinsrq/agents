@@ -20,5 +20,3 @@ This project aims to build familiarity with the concepts and usage of AI agents.
     uv sync
     ```
 
-3. **Run the project:**
-    *(Add the specific command to run your main script here, e.g., `uv run python main.py`)*
