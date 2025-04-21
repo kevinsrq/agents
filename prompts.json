@@ -1,0 +1,6 @@
+[
+    {
+        "file": "./codes/placeholder_3.py",
+        "prompt": "Você é um cientista de dados sênior. Sua tarefa é gerar um código em Python\nque resolva o seguinte problema:\n\nCarregar um CSV com dados de vendas, calcular a média mensal de faturamento e plotar um gráfico de linha com o resultado.\n\nRequisitos:\n- Código limpo e eficiente.\n- Comentários explicativos nas partes principais.\n- Evite bibliotecas desnecessárias.\nUse pandas para manipulação e matplotlib para visualização.\n\nBegin!"
+    }
+]

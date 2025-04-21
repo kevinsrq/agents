@@ -1,0 +1,16 @@
+O prompt utilizado por um amigo meu para gerar conteudo interessante foi: 
+
+Você é um especialista em marketing digital. Sua tarefa é gerar 3 títulos atrativos para um anúncio de e-commerce de camisetas.  
+Considere os seguintes dados/contexto:
+
+Produto: Camiseta estampada 100% algodão
+Público-alvo: Jovens de 18 a 30 anos
+Tom de voz: Descolado e direto
+
+Com base nisso, produza uma saída que:
+
+1. Seja criativa e persuasiva.
+2. Atenda aos seguintes critérios: máximo 60 caracteres, evitar clichês, focar no diferencial.
+3. Siga o formato de saída: lista numerada com os títulos.
+
+Responda em português e evite repetições ou floreios desnecessários.
